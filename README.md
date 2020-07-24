@@ -1,2 +1,2 @@
-# cc-flask-project
-Cookiecutter template for creating new Flask projects.
+# CC-Flask
+A Cookiecutter template for creating new Flask projects.

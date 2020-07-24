@@ -1,0 +1,19 @@
+# Editors/IDEs
+.idea/
+.vscode/
+
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+out/
+*.egg-info/
